@@ -1,6 +1,5 @@
 const products = [
     {
-      _id: '1',
       name: 'Airpods Wireless Bluetooth Headphones',
       image: '/images/airpods.jpg',
       description:
@@ -13,7 +12,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '2',
       name: 'iPhone 11 Pro 256GB Memory',
       image: '/images/phone.jpg',
       description:
@@ -26,7 +24,6 @@ const products = [
       numReviews: 8,
     },
     {
-      _id: '3',
       name: 'Cannon EOS 80D DSLR Camera',
       image: '/images/camera.jpg',
       description:
@@ -39,7 +36,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '4',
       name: 'Sony Playstation 5',
       image: '/images/playstation.jpg',
       description:
@@ -52,7 +48,6 @@ const products = [
       numReviews: 12,
     },
     {
-      _id: '5',
       name: 'Logitech G-Series Gaming Mouse',
       image: '/images/mouse.jpg',
       description:
@@ -65,7 +60,6 @@ const products = [
       numReviews: 10,
     },
     {
-      _id: '6',
       name: 'Amazon Echo Dot 3rd Generation',
       image: '/images/alexa.jpg',
       description:
@@ -76,6 +70,102 @@ const products = [
       countInStock: 0,
       rating: 4,
       numReviews: 12,
+    },
+    {
+      name: 'Samsung Galaxy S21 Ultra 5G',
+      image: '/images/samsung-s21.jpg',
+      description:
+        'The Samsung Galaxy S21 Ultra 5G is the ultimate smartphone, featuring a stunning display, powerful performance, and a versatile camera system for capturing the best moments in life.',
+      brand: 'Samsung',
+      category: 'Electronics',
+      price: 1199.99,
+      countInStock: 5,
+      rating: 4.8,
+      numReviews: 24,
+    },
+    {
+      name: 'Sony PlayStation 5 Console',
+      image: '/images/ps5.jpg',
+      description:
+        'Experience the next generation of gaming with the Sony PlayStation 5 console. Enjoy lightning-fast load times, stunning graphics, and a library of exclusive games.',
+      brand: 'Sony',
+      category: 'Gaming',
+      price: 499.99,
+      countInStock: 8,
+      rating: 4.9,
+      numReviews: 30,
+    },
+    {
+      name: 'Dell XPS 13 Laptop',
+      image: '/images/dell-xps.jpg',
+      description:
+        'The Dell XPS 13 is a premium laptop with a stunning InfinityEdge display, powerful performance, and a sleek design. Its perfect for both work and entertainment.',
+        brand: 'Dell',
+      category: 'Computers',
+      price: 1099.99,
+      countInStock: 7,
+      rating: 4.7,
+      numReviews: 22,
+    },
+    {
+      name: 'Canon EOS 5D Mark IV DSLR Camera',
+      image: '/images/canon-camera.jpg',
+      description:
+        'Capture high-quality photos and videos with the Canon EOS 5D Mark IV DSLR camera. It features a full-frame sensor, fast autofocus, and advanced image processing.',
+      brand: 'Canon',
+      category: 'Cameras',
+      price: 2499.99,
+      countInStock: 3,
+      rating: 4.6,
+      numReviews: 15,
+    },
+    {
+      name: 'Apple iPad Pro (12.9-inch, Wi-Fi, 128GB)',
+      image: '/images/ipad-pro.jpg',
+      description:
+        'The Apple iPad Pro (12.9-inch) is a powerful tablet with a stunning Liquid Retina display, A12Z Bionic chip, and support for the Apple Pencil and Magic Keyboard.',
+      brand: 'Apple',
+      category: 'Tablets',
+      price: 999.99,
+      countInStock: 9,
+      rating: 4.8,
+      numReviews: 20,
+    },
+    {
+      name: 'Bose QuietComfort 35 II Wireless Headphones',
+      image: '/images/bose-headphones.jpg',
+      description:
+        'Experience world-class noise cancellation with the Bose QuietComfort 35 II headphones. Enjoy clear, balanced sound and comfortable all-day wear.',
+      brand: 'Bose',
+      category: 'Electronics',
+      price: 299.99,
+      countInStock: 6,
+      rating: 4.7,
+      numReviews: 14,
+    },
+    {
+      name: 'Fitbit Versa 3 Smartwatch',
+      image: '/images/fitbit-versa.jpg',
+      description:
+        'Stay active and track your fitness with the Fitbit Versa 3 smartwatch. It features built-in GPS, heart rate monitoring, and support for various workout modes.',
+      brand: 'Fitbit',
+      category: 'Wearables',
+      price: 199.99,
+      countInStock: 12,
+      rating: 4.4,
+      numReviews: 10,
+    },
+    {
+      name: 'Nintendo Switch Console',
+      image: '/images/nintendo-switch.jpg',
+      description:
+        'The Nintendo Switch is a versatile gaming console that can be played in handheld, tabletop, or TV mode. Enjoy a wide range of Nintendo games and experiences.',
+      brand: 'Nintendo',
+      category: 'Gaming',
+      price: 299.99,
+      countInStock: 11,
+      rating: 4.6,
+      numReviews: 16,
     },
   ]
   
