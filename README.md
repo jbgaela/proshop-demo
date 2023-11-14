@@ -1,1 +1,1 @@
-# proshop-demo
+# JB Shop-demo

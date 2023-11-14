@@ -36,18 +36,6 @@ const products = [
       numReviews: 12,
     },
     {
-      name: 'Sony Playstation 5',
-      image: '/images/playstation.jpg',
-      description:
-        'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
-      brand: 'Sony',
-      category: 'Electronics',
-      price: 399.99,
-      countInStock: 11,
-      rating: 5,
-      numReviews: 12,
-    },
-    {
       name: 'Logitech G-Series Gaming Mouse',
       image: '/images/mouse.jpg',
       description:
@@ -73,7 +61,7 @@ const products = [
     },
     {
       name: 'Samsung Galaxy S21 Ultra 5G',
-      image: '/images/samsung-s21.jpg',
+      image: '/images/s21.jpg',
       description:
         'The Samsung Galaxy S21 Ultra 5G is the ultimate smartphone, featuring a stunning display, powerful performance, and a versatile camera system for capturing the best moments in life.',
       brand: 'Samsung',
@@ -85,7 +73,7 @@ const products = [
     },
     {
       name: 'Sony PlayStation 5 Console',
-      image: '/images/ps5.jpg',
+      image: '/images/playstation.jpg',
       description:
         'Experience the next generation of gaming with the Sony PlayStation 5 console. Enjoy lightning-fast load times, stunning graphics, and a library of exclusive games.',
       brand: 'Sony',
@@ -97,7 +85,7 @@ const products = [
     },
     {
       name: 'Dell XPS 13 Laptop',
-      image: '/images/dell-xps.jpg',
+      image: '/images/dell.jpg',
       description:
         'The Dell XPS 13 is a premium laptop with a stunning InfinityEdge display, powerful performance, and a sleek design. Its perfect for both work and entertainment.',
         brand: 'Dell',
@@ -109,7 +97,7 @@ const products = [
     },
     {
       name: 'Canon EOS 5D Mark IV DSLR Camera',
-      image: '/images/canon-camera.jpg',
+      image: '/images/canon.jpg',
       description:
         'Capture high-quality photos and videos with the Canon EOS 5D Mark IV DSLR camera. It features a full-frame sensor, fast autofocus, and advanced image processing.',
       brand: 'Canon',
@@ -121,7 +109,7 @@ const products = [
     },
     {
       name: 'Apple iPad Pro (12.9-inch, Wi-Fi, 128GB)',
-      image: '/images/ipad-pro.jpg',
+      image: '/images/ipad.jpg',
       description:
         'The Apple iPad Pro (12.9-inch) is a powerful tablet with a stunning Liquid Retina display, A12Z Bionic chip, and support for the Apple Pencil and Magic Keyboard.',
       brand: 'Apple',
@@ -133,7 +121,7 @@ const products = [
     },
     {
       name: 'Bose QuietComfort 35 II Wireless Headphones',
-      image: '/images/bose-headphones.jpg',
+      image: '/images/bose.jpg',
       description:
         'Experience world-class noise cancellation with the Bose QuietComfort 35 II headphones. Enjoy clear, balanced sound and comfortable all-day wear.',
       brand: 'Bose',
@@ -145,7 +133,7 @@ const products = [
     },
     {
       name: 'Fitbit Versa 3 Smartwatch',
-      image: '/images/fitbit-versa.jpg',
+      image: '/images/fitbit.jpg',
       description:
         'Stay active and track your fitness with the Fitbit Versa 3 smartwatch. It features built-in GPS, heart rate monitoring, and support for various workout modes.',
       brand: 'Fitbit',
@@ -157,7 +145,7 @@ const products = [
     },
     {
       name: 'Nintendo Switch Console',
-      image: '/images/nintendo-switch.jpg',
+      image: '/images/switch.jpg',
       description:
         'The Nintendo Switch is a versatile gaming console that can be played in handheld, tabletop, or TV mode. Enjoy a wide range of Nintendo games and experiences.',
       brand: 'Nintendo',
