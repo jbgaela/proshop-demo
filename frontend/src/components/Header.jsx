@@ -1,7 +1,7 @@
 import { Badge, Navbar, Nav, Container } from 'react-bootstrap'
 import { FaShoppingCart, FaUser } from 'react-icons/fa'
 import { LinkContainer } from 'react-router-bootstrap'
-import { UseSelector, useSelector } from 'react-redux'
+import { useSelector } from 'react-redux'
 import logo from '../assets/logo.png'
 
 const Header = () => {
